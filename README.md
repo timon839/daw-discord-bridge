@@ -77,7 +77,9 @@ Tested in:
 
 | DAW | Result |
 | --- | --- |
-| REAPER | Works |
+| REAPER 7.69 | Works |
+| --- | --- |
+| Cubase 15 Pro | Works |
 <!-- Add more rows here, for example: | FL Studio | Works | -->
 
 It should work in any DAW that supports VST3, but only the DAWs listed above have been tested. If you try another one, please tell me in an issue.
