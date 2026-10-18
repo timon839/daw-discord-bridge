@@ -78,7 +78,6 @@ Tested in:
 | DAW | Result |
 | --- | --- |
 | REAPER 7.69 | Works |
-| --- | --- |
 | Cubase 15 Pro | Works |
 <!-- Add more rows here, for example: | FL Studio | Works | -->
 
