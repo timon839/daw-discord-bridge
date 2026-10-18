@@ -1,10 +1,10 @@
 # DAW-Discord-Bridge
 
+<img align="right" width="442" height="460" alt="Discord-Daw-Bridge" src="https://github.com/user-attachments/assets/8cf2deb9-ffe9-499e-9f60-88e0274ea6af" style="margin-left: 20px; margin-bottom: 10px;" />
+
 **Let your friends hear your DAW in your Discord stream.**
 
 DAW-Discord-Bridge is a small, free plugin for Windows. Put it on your master channel, pick an output device, and the sound of your music software is sent to your Discord screen share, even if your DAW uses ASIO.
-
-<!-- Add a screenshot of the plugin here: ![DAW-Discord-Bridge](docs/screenshot.png) -->
 
 ## What is this for?
 
