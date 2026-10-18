@@ -12,18 +12,26 @@ When you share your screen in Discord, people often can't hear your DAW. Many mu
 
 This plugin fixes that. It sends a **copy** of your DAW's sound through Windows, so Discord can hear it. Your normal DAW sound is not changed and keeps its low delay.
 
+**PLEASE NOTE**: This Plugin should also work for other platforms where you screenshare your DAW, like Zoom or Skype. It has only been tested in discord though.
+
 ## Download and install
 
 1. Go to the **[Releases page](../../releases/latest)** and download the newest `.zip` file.
-2. Unzip it. You get a folder called `DAW-Discord-Bridge.vst3`.
-3. Copy that folder to `C:\Program Files\Common Files\VST3\`.
+2. Unzip it. You get a File called `DAW-Discord-Bridge.vst3` and the README.
+3. Copy that folder to `C:\Program Files\Common Files\VST3\` or your VST-Plugin path of choice.
 4. Open your DAW and rescan your plugins.
 
-If you used an older version of this plugin, delete the old one from that folder first.
+Your browser, Windows or your virus scanner might warn you about this file.
+This is common for new, free plugins. The file is not signed with a paid code-signing certificate, and very few people have downloaded it so far, so it may be called “uncommon” or even “dangerous”. The warning is about the missing signature, not about what the plugin does.
+
+Only download the plugin from the Releases page of this repository.
+All source code is public here, and the download is built automatically by GitHub from that code.
+If you would rather not trust a download, you can build it yourself.
+If your browser asks, choose Keep. If your virus scanner removes or blocks the file, you may have to allow it in the scanner first.
 
 ## Quick start
 
-1. Put **DAW-Discord-Bridge** on your **master channel** (as the last plugin).
+1. Put **DAW-Discord-Bridge** on your **master channel** as the last Plugin (if you wanna share all Audio from your DAW) or your desired Audio channels if you only wanna share specific ones.
 2. Open the plugin and choose an **output device**. Pick one you are **not** listening to, otherwise you will hear everything twice.
 3. Start your stream or screen share in Discord and make sure sound sharing is turned on.
 
