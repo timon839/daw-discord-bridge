@@ -20,6 +20,11 @@ This plugin fixes that. It sends a **copy** of your DAW's sound through Windows,
 3. Copy that folder to `C:\Program Files\Common Files\VST3\` or your VST-Plugin path of choice.
 4. Open your DAW and rescan your plugins.
 
+**PLEASE NOTE:** This plugin works on WINDOWS ONLY
+
+### **Video Tutorial**
+![Watch the tutorial](https://img.youtube.com/vi/4YWiLVWJyNY/maxresdefault.jpg)
+
 Your browser, Windows or your virus scanner might warn you about this file.
 This is common for new, free plugins. The file is not signed with a paid code-signing certificate, and very few people have downloaded it so far, so it may be called “uncommon” or even “dangerous”. The warning is about the missing signature, not about what the plugin does.
 
