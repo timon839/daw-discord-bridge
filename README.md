@@ -22,8 +22,11 @@ This plugin fixes that. It sends a **copy** of your DAW's sound through Windows,
 
 **PLEASE NOTE:** This plugin works on WINDOWS ONLY
 
-### **Video Tutorial**
-![Watch the tutorial](https://img.youtube.com/vi/4YWiLVWJyNY/maxresdefault.jpg)
+### **Video Tutorial:**
+
+<a href="https://www.youtube.com/watch?v=4YWiLVWJyNY">
+<img src="https://img.youtube.com/vi/4YWiLVWJyNY/maxresdefault.jpg" alt="Watch Tutorial" width="800">
+</a>
 
 Your browser, Windows or your virus scanner might warn you about this file.
 This is common for new, free plugins. The file is not signed with a paid code-signing certificate, and very few people have downloaded it so far, so it may be called “uncommon” or even “dangerous”. The warning is about the missing signature, not about what the plugin does.
